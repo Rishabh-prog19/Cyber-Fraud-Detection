@@ -25,6 +25,12 @@ The project uses a credit card transaction dataset containing:
   - 1 = Fraudulent Transaction
 
 Due to privacy concerns, most features are anonymized.
+The dataset is not included in this repository because of GitHub's file size limitations.
+
+Download it from:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Place the downloaded creditcard.csv file inside the data/ directory before running the project.
 
 ---
 
